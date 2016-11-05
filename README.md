@@ -7,6 +7,6 @@ Example:<br>
 http://santaeugenia.neocities.org/bootstrap/puzzle_bootstrap.html
 
 Start of the puzzle:
-https://cloud.githubusercontent.com/assets/14861253/20033622/37c3540c-a3a5-11e6-90b1-c6b8362d07fd.png
-End of the puzzle:
-https://cloud.githubusercontent.com/assets/14861253/20033624/3da3c488-a3a5-11e6-82a7-20f02ff8fe4a.png
+![Alt text](https://cloud.githubusercontent.com/assets/14861253/20033622/37c3540c-a3a5-11e6-90b1-c6b8362d07fd.png)<br>
+End of the puzzle:<br>
+![Alt text](https://cloud.githubusercontent.com/assets/14861253/20033624/3da3c488-a3a5-11e6-82a7-20f02ff8fe4a.png)
